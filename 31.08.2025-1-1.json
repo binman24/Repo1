@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Garrett",
+    "age": 57,
+    "address": {
+        "street": "Wesley Streets",
+        "city": "Lake Dennis",
+        "state": "Massachusetts",
+        "zip": "47146"
+    },
+    "contact": {
+        "phone": "8515377647",
+        "servicePhone": "800239298"
+    },
+    "birthday": "1968-11-01",
+    "ip": "149.238.91.225",
+    "foo": "bar",
+    "profile": {
+        "about": "World into foot through environmental sound.\nLaw improve country hospital person. Six phone institution trial nature if old.",
+        "bio": "How with improve particular sing meeting huge.\nPeace few increase individual according not.\nPull recently west strong. Wide nothing best far."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
