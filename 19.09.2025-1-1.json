@@ -1,0 +1,25 @@
+{
+    "name": "Carrie Wolf",
+    "age": 103,
+    "address": {
+        "street": "Samuel Mountains",
+        "city": "Port Laura",
+        "state": "North Dakota",
+        "zip": "22253"
+    },
+    "contact": {
+        "phone": "(415)670-8478",
+        "servicePhone": "800508858"
+    },
+    "birthday": "1922-20-02",
+    "ip": "196.110.232.190",
+    "foo": "bar",
+    "profile": {
+        "about": "National bed model performance. Financial if book party structure example identify.\nIncrease reduce member early. Such lay Mrs agreement house fill face.",
+        "bio": "Lot where population medical woman right industry. Stop those long big right training bed. Person participant today reality test. From teach writer ten mother popular."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
